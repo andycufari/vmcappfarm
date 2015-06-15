@@ -1,0 +1,215 @@
+2013/03/06 20:05:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "enviroment/admin".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('enviroment/admi...')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/enviroment/admin
+---
+2013/03/06 20:05:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('favicon.ico')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/06 20:05:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/65f4c0f/mbmenu.css".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/65f4c0f/...')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/65f4c0f/mbmenu.css
+HTTP_REFERER=http://vmc.cumulos.co/index.php/enviroments/admin
+---
+2013/03/06 20:05:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('favicon.ico')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/06 20:05:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/65f4c0f/mbmenu.css".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/65f4c0f/...')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/65f4c0f/mbmenu.css
+HTTP_REFERER=http://vmc.cumulos.co/index.php/enviroments/create
+---
+2013/03/06 20:05:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('favicon.ico')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/06 20:15:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/65f4c0f/mbmenu.css".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/65f4c0f/...')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/65f4c0f/mbmenu.css
+HTTP_REFERER=http://vmc.cumulos.co/index.php/enviroments/create
+---
+2013/03/06 20:15:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('favicon.ico')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/06 20:15:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/65f4c0f/mbmenu.css".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/65f4c0f/...')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/65f4c0f/mbmenu.css
+HTTP_REFERER=http://vmc.cumulos.co/index.php/enviroments/admin
+---
+2013/03/06 20:15:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('favicon.ico')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/06 20:16:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/65f4c0f/mbmenu.css".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/65f4c0f/...')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/65f4c0f/mbmenu.css
+HTTP_REFERER=http://vmc.cumulos.co/index.php/enviroments/admin
+---
+2013/03/06 20:16:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('favicon.ico')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/06 20:16:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('favicon.ico')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/06 20:18:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/65f4c0f/mbmenu.css".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/65f4c0f/...')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/65f4c0f/mbmenu.css
+HTTP_REFERER=http://vmc.cumulos.co/index.php/applications/admin
+---
+2013/03/06 20:18:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('favicon.ico')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/06 20:18:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('favicon.ico')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/06 20:18:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/65f4c0f/mbmenu.css".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('assets/65f4c0f/...')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/65f4c0f/mbmenu.css
+HTTP_REFERER=http://vmc.cumulos.co/index.php/applications/update/id/30
+---
+2013/03/06 20:18:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('favicon.ico')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/06 20:23:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('favicon.ico')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/06 20:23:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('favicon.ico')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/06 20:31:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('favicon.ico')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/06 20:33:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('favicon.ico')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/06 20:33:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('favicon.ico')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/06 20:33:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('favicon.ico')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/06 20:34:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('favicon.ico')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/06 20:34:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/appmanager/framework/web/CWebApplication.php:287
+Stack trace:
+#0 /var/www/appmanager/framework/web/CWebApplication.php(142): CWebApplication->runController('favicon.ico')
+#1 /var/www/appmanager/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/appmanager/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
